@@ -15,6 +15,7 @@ namespace NhlSystemClassLibrary
         private string _city;
         private string _arena;
 
+
         public string Name
         {
             get
